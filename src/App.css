@@ -1,0 +1,121 @@
+.Header{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.Header button{
+  border-radius: 20px;
+  height: 40px;
+  width: 60px;
+
+
+}
+.hero-section{
+  background-color: bisque;
+  width: 100%;
+
+  text-align: justify;
+}
+.content{
+  padding: 20px;
+  
+}
+.card{
+  
+  border-radius: 20px;
+  margin-top: 20px;
+display: flex;
+flex-direction: column;
+  width:100%;
+  
+}
+.card-header {
+  padding: 10px;
+  font-size: 1.5em;
+}
+
+.card-p {
+  padding: 10px;
+  font-size: 1em;
+}
+.container1{
+  border-top: 1px solid  black;
+  border-bottom: 1px silod black;
+  padding: 20px;
+  
+}
+.footer{
+  border-top: 1px solid black;
+  text-align: center;
+}
+.top-banner{
+  
+  background-color:#e1d9dc  ;
+}
+.babar-content h1{
+  text-align: center;
+  padding: 35px;
+  font-size: 40px;
+  font-weight: 600;
+  padding-top:80px;
+
+
+  
+}
+.note{
+  color:#e32d6f ;
+}
+.pro{
+  color: black;
+}
+.link{
+  font-size: 30px;
+}
+.flow{
+  border-radius: 20px;
+  max-width: 200px;
+}
+.lee{
+
+  
+
+  display: flex;
+}
+.country-name{
+  padding-left: 10px;
+  font-size: 14px;
+}
+.dilvery{
+  padding-left: 10px;
+  color:#d0295e;
+  font-size: 14px;
+  
+}
+
+  .container {
+    display: flex;
+  
+  }
+  
+
+
+
+.card {
+  width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  
+}
+
+.card-image-top {
+  width: 100%;
+  height: auto;
+  border-radius: 8px 8px 0 0;
+}
+.footer{
+  display: flex;
+  justify-content: space-between;
+}
+
+
